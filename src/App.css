@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #252525;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App{
+  background-color: #252525;
+  min-height: 100vh;
+}
+
+.btn{
+  height: 50px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #d8d840;
+  background-color: #61dafb;
+  margin: 10px;
+  font-family: 'Roboto', sans-serif;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background-color: #d8d840;
+  border-width: 3px;
+  border-color: #61dafb;
+
+}
+
+.Upload{
+  padding-top:30px
+}
+
+.up{
+  width:100px;
 }

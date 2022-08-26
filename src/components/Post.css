@@ -1,0 +1,26 @@
+.manager{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.postBox{
+    border: 1px solid;
+    border-color: rgb(168, 168, 168);
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(53, 53, 53)
+}
+
+.postImg{
+    height:250px
+}
+
+.postAdd{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.postCap{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
